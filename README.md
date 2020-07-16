@@ -9,10 +9,10 @@ My model can classify Cats and Dogs and had achieved validation accuracy as ~94%
 
 # Dependencies:
 Following are the dependencies and their installation commands:
-> Keras
+- Keras
  `conda install -c conda-forge keras`
-> OpenCV
+- OpenCV
  `conda install -c conda-forge opencv`
-> Numpy
+- Numpy
  `conda install -c anaconda numpy`
  
